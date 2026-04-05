@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.4 — 2026-04-04
+### Added
+- New conversation starter: "Who Should I Be Talking To?" — relationship portfolio management (going cold, warm up, overdue follow-ups, underweighted contacts, one relationship move)
+
+### Removed
+- "How Am I Tracking on My Objectives?" — redundant with Recharge quarterly review starter
+
 ## v1.3 — 2026-04-04
 ### Changed
 - Today's Brief: now references source attribution tags, time-of-day awareness, and commitment ledger

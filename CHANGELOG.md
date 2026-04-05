@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.5 — 2026-04-04
+### Changed
+- Renamed "Help Me With My Recharge" to "How Am I Doing?" — now covers both mid-cycle objectives check-in (Mode 1) and quarterly review prep (Mode 2) in a single starter
+- Mode 1 absorbs the old "How Am I Tracking on My Objectives?" functionality (inferred objectives, alignment scores, gap work detection)
+- Mode 2 retains the full quarterly review builder with two-pass workflow
+
 ## v1.4 — 2026-04-04
 ### Added
 - New conversation starter: "Who Should I Be Talking To?" — relationship portfolio management (going cold, warm up, overdue follow-ups, underweighted contacts, one relationship move)

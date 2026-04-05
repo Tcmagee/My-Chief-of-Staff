@@ -32,7 +32,7 @@ Think of it as five roles through a single interface:
 4. Who Should I Be Talking To?
 5. Weekly Reset
 6. Prep Me for My Next Meeting
-7. Help Me With My Recharge
+7. How Am I Doing?
 8. Help Me Make a Decision
 9. Where Am I the Bottleneck?
 10. What's My Team Working On?

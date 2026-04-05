@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.6 — 2026-04-04
+### Changed
+- "What's My Team Working On?" rewritten with dual-mode support: Manager mode (team pulse check with initiative alignment and misalignment check) and IC mode (peer landscape scan with collaboration opportunities)
+- Added source attribution, commitment ledger, and action drafting to both modes
+- Agent now auto-detects manager vs IC or asks if unclear
+
 ## v1.5 — 2026-04-04
 ### Changed
 - Renamed "Help Me With My Recharge" to "How Am I Doing?" — now covers both mid-cycle objectives check-in (Mode 1) and quarterly review prep (Mode 2) in a single starter

@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.8 — 2026-04-04
+### Changed
+- Today's Brief: restructured from wall of text into labeled sections, added "Who Needs to Hear From Me" (proactive outreach), escalation calibration, proactive action drafting for blockers and unblock messages
+
 ## v1.7 — 2026-04-04
 ### Changed
 - "What's My Team Working On?" — Manager mode: added Recognition & Support section (who to recognize, who needs help, draft messages for both). IC mode: added Where I Can Add Value section (proactive help offers to peers).

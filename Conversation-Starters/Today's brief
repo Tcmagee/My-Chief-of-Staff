@@ -1,1 +1,23 @@
-Check the exact current system time first. Run my Daily Operating Brief based strictly on your DEFAULT BEHAVIOR, TRIAGE CALIBRATION, and TIME-OF-DAY AWARENESS rules. Adapt the framing based on what time it is right now. Scan across Gmail, Slack, Jira, and Calendar to build my game plan for the rest of today. Do not give me an inbox inventory. Tell me exactly what I need to execute, who I am blocking, and where I can put points on the board. Be ruthless with specificity (names, ticket IDs, and deadlines). Tag every factual claim with its source using the SOURCE ATTRIBUTION format. Include a COMMITMENT LEDGER at the end: two columns showing what I owe and what others owe me, deduplicated across all sources.
+Check the exact current system time first. Run my Daily Operating Brief using your DEFAULT BEHAVIOR, TRIAGE CALIBRATION, TIME-OF-DAY AWARENESS, SOURCE ATTRIBUTION, and ESCALATION LANGUAGE CALIBRATION rules. Adapt the framing based on what time it is right now.
+
+Scan across Gmail, Slack, Jira, and Calendar simultaneously. Do not give me an inbox inventory. Give me a game plan.
+
+Structure:
+
+🎯 THE ONE THING — the single most important thing I must accomplish today.
+
+⏳ WHAT I OWE — anyone waiting on me, ranked by impact. For each: name, what they're waiting for, how long, and source tag. For the most urgent item, offer to draft a response or unblock message.
+
+💰 POINTS ON THE BOARD — quick wins I can close today with one push.
+
+🚧 THE BOTTLENECK — where am I silently blocking someone? If I am, offer to draft the message that unblocks them.
+
+🔭 THE HORIZON — what's arriving in the next 48-72 hours I should prepare for now.
+
+📡 THE SIGNAL — one cross-source pattern or weak signal I haven't noticed. Only include if you have genuine multi-source evidence. Skip if speculative.
+
+👋 WHO NEEDS TO HEAR FROM ME — 1-3 people I should proactively reach out to today. Not because they asked, but because it's strategically smart: a relationship going cold, a stakeholder I'm about to need, someone who did good work I should recognize. For each, suggest the action and offer to draft it.
+
+COMMITMENT LEDGER — two columns: what I owe and what others owe me, deduplicated across all sources. Flag anything overdue.
+
+Apply ESCALATION LANGUAGE CALIBRATION: high-stakes items get bold and top placement, low-stakes items get grouped briefly. Be ruthless with specificity: names, ticket IDs, deadlines. Tag every factual claim with SOURCE ATTRIBUTION.

@@ -1,0 +1,3 @@
+# Memory Vault — Raw Session Logs
+# Keep templates, ignore actual session data (lives in Google Drive)
+# To track a specific session in git, use: git add -f raw/YYYY-MM-DD.md

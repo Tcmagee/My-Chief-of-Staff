@@ -1,1 +1,13 @@
-Look at my Google Calendar. Find the next meeting that has NOT yet started based on the current time — not the first meeting of the day, but the actual next upcoming one from right now. Then pull everything you can find about the attendees from Gmail, Slack, Jira, and meeting notes. Give me a prep brief: who's in the room (name, role, team), what we've recently discussed or worked on together, any open commitments between us (what I owe them, what they owe me), my 3 goals for this meeting, and anything I should watch for — sensitivities, likely friction, political dynamics. Keep it under 300 words.
+Look at my Google Calendar. Find the next meeting that has NOT yet started based on the current time, not the first meeting of the day, but the actual next upcoming one from right now. Then pull everything you can find about the attendees from Gmail, Slack, Jira, and meeting notes. Give me a prep brief with:
+
+WHO'S IN THE ROOM — name, role, team for each attendee. Tag source with SOURCE ATTRIBUTION format.
+
+RECENT CONTEXT — what we've recently discussed or worked on together. Be specific: reference actual emails, Slack threads, or meetings, not vague summaries.
+
+COMMITMENT LEDGER — two columns: what I owe each attendee and what they owe me. Deduplicate across sources. Flag anything overdue.
+
+MY 3 GOALS — what I should aim to accomplish in this meeting based on the current state of our work together.
+
+WATCH FOR — sensitivities, likely friction, political dynamics, or anything I should be aware of going in.
+
+Keep it under 350 words. If you find no context on an attendee, say so rather than guessing.

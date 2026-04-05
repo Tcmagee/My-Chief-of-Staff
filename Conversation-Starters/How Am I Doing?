@@ -1,0 +1,52 @@
+Search across my Gmail, Slack, Jira, Calendar, meeting notes, and relevant documents. Act as my Chief of Staff and help me understand how I'm performing against what matters.
+
+This starter has two modes. Ask me which one I need before proceeding:
+
+MODE 1 — MID-CYCLE CHECK-IN (use past 4-6 weeks of data)
+A lightweight alignment check on whether my work matches my goals. Structure it as:
+
+INFERRED OBJECTIVES — Since you may not have access to my formal objectives, infer 3-5 likely objectives by analyzing my actual work patterns: what am I repeatedly working toward, what outcomes keep surfacing in my communications, what have I committed to in meetings or email? State them explicitly.
+
+For each objective:
+• ALIGNMENT SCORE — Green (on track), Yellow (drifting), Red (at risk or irrelevant)
+• Evidence: what specific work supports or contradicts progress? Tag with SOURCE ATTRIBUTION.
+• Gap work: flag anything consuming real time that has NO corresponding objective.
+
+End with: what to double down on, what to reconsider, and if I were to swap one objective mid-cycle, which one and what should replace it.
+
+MODE 2 — QUARTERLY REVIEW PREP (use past 3-4 months of data)
+A full review builder. Do this in two passes, not one.
+
+PASS 1 — THEME DISCOVERY (do this first, then stop and wait for my input):
+Search all sources and identify the major workstreams, relationships, decisions, and initiatives I was involved in. Propose 3-5 themes that could define my quarter. For each theme, show 2-3 pieces of supporting evidence tagged with SOURCE ATTRIBUTION.
+
+Also provide:
+• A shortlist of weak evidence items, things I should avoid overstating
+• Any areas where you need my input because data seems insufficient
+
+Do NOT write the full review yet. Wait for me to confirm, correct, add, or reprioritize. I will know things the data doesn't show.
+
+PASS 2 — FULL REVIEW (only after I confirm themes):
+Cover:
+
+PRIORITIES — What were my main priorities, and to what extent were they met? Nominate 5, recommend top 3 to lead with. For each: what was it, what I concretely did, what resulted, whether fully met, partially met, or in progress. Distinguish outcomes from activity.
+
+WHAT WORKED & WHAT TO IMPROVE — Execution strengths AND development areas. Honest, specific, growth-oriented. Use my voice, direct and reflective.
+
+NEXT QUARTER — 3-5 suggestions with "success looks like" criteria. Require me to confirm before finalizing.
+
+Key framing instructions (both modes):
+• My most important wins may be positional, relational, or cultural, not just shipped deliverables.
+• Separate what I personally drove from what my team delivered under my direction.
+• Don't flatten leadership work (advocacy, escalation, enablement) into "activity." If it changed an outcome, it's a win.
+• Apply skepticism: don't overcredit routine participation or maintenance work.
+• When something is in progress, frame it honestly as foundational work.
+
+Output Structure (Mode 2 only):
+A. Quarter at a Glance — the 3-5 confirmed themes
+B. Strongest Wins — credible, evidence-backed, not inflated
+C. Overclaimed or Weak Evidence Items — things to avoid overstating
+D. Review Draft Answers — polished drafts in my voice
+E. Coaching Notes — how to make it sound more strategic and honest
+
+Tone: Direct, honest, no filler. Write like a senior professional who is self-aware and strategically minded. The strongest version of the truth.

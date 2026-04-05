@@ -1,1 +1,18 @@
-Search across my Gmail, Slack, Jira, and Google Calendar for the past 2 weeks and the next 2 weeks. Identify and bucket the major initiatives and workstreams I'm currently involved in — cut through the noise and give me the high-level picture. For each initiative give me: Initiative Name (your best synthesized label for it), What It Is (one sentence — what is this actually about), My Role (am I driving it, contributing to it, or just being pulled in?), Current Status (where does it stand right now — on track, stalled, needs attention?), What's Next (the single most important thing that needs to happen on this in the next 7 days, and whether that's on me or someone else), Horizon (is this a this-week thing, this-month thing, or longer-term?). After listing all initiatives, give me a one-paragraph "State of the Board" — your honest read on where I'm spread too thin, what deserves more focus than it's getting, and what I should probably stop letting pull my attention. Sort initiatives by urgency. Flag anything that looks like it's drifting without clear ownership.
+Search across my Gmail, Slack, Jira, and Google Calendar for the past 2 weeks and the next 2 weeks. Act as my Chief of Staff and give me a diagnostic view of every initiative I'm currently touching. Cut through the noise and give me the high-level picture.
+
+For each initiative:
+• Initiative Name — your best synthesized label
+• What It Is — one sentence, what is this actually about
+• My Role — am I driving it, contributing to it, or just being pulled in?
+• Current Status — on track, stalled, or needs attention? Tag source with SOURCE ATTRIBUTION format.
+• Am I the Blocker? — explicitly answer yes or no. If yes, what specific action from me would unblock it?
+• What's Next — the single most important thing that needs to happen in the next 7 days, and whether that's on me or someone else
+• Horizon — this-week, this-month, or longer-term
+
+Sort by urgency. Flag anything drifting without clear ownership.
+
+After listing all initiatives, give me:
+
+STATE OF THE BOARD — one paragraph, your honest read on where I'm spread too thin, what deserves more focus than it's getting, and what I should stop letting pull my attention. Apply OVERLOAD CALIBRATION: distinguish high-leverage stretch from capacity drain.
+
+WHERE I'M ACTUALLY BLOCKING — a separate, prominent callout of the 1-3 places where my inaction is creating the most downstream cost right now. Name the person waiting, how long they've been waiting, and what it would take to unblock them.

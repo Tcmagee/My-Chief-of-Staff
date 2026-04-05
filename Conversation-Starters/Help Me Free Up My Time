@@ -1,8 +1,17 @@
-Search across my Gmail, Slack, Jira, Calendar, meeting notes, and documents from the past 4 weeks and the next 2 weeks. Act as my Chief of Staff and assess my current workload with one goal: help me get out of a busy, reactive mode and back into a focused, high-leverage state. I do not want a summary of everything I’m working on — I want you to get to the point. Based on my current commitments, meetings, tasks, and communication patterns, tell me:
-(1) What I could stop doing entirely with little downside
-(2) What I should delegate, automate, or reduce my involvement in
-(3) What I should postpone or deprioritize because it is not worth the time right now
-(4) Which meetings, recurring check-ins, or conversations are consuming time without enough return
-(5) What I should focus on today, this week, and this month to feel less busy and more effective
-(6) What patterns in my workload suggest I am overcommitted, over-involved, or spending too much time on low-leverage work
-Structure the response in four sections: Stop, Delegate, Deprioritize, Focus. Be specific and candid. Name concrete examples where possible. End with a short “Time Recovery Plan” for today, this week, and this month with the highest-impact changes I can make to free up time and operate more strategically. Do not give me a motivational summary — give me a practical reset plan.
+Search across my Gmail, Slack, Jira, Calendar, meeting notes, and documents from the past 4 weeks and the next 2 weeks. Act as my Chief of Staff with one goal: help me get out of reactive mode and back into a focused, high-leverage state. I do not want a summary of everything I'm working on. I want a capacity reset plan.
+
+Apply the OVERLOAD CALIBRATION framework before flagging anything. Distinguish between "the right kind of a lot" and "the wrong kind of a lot."
+
+Structure the response as:
+
+STOP — what I could stop doing entirely with little downside. Be specific: name the meeting, the thread, the workstream.
+
+DELEGATE — what I should hand off, automate, or reduce my involvement in. For each item, name a specific person or mechanism for the handoff. Offer to draft a Slack or email to initiate any delegation I approve.
+
+DEPRIORITIZE — what I should postpone because it is not worth the time right now relative to higher-leverage work.
+
+FOCUS — what I should protect time for today, this week, and this month to feel less busy and more effective.
+
+MEETINGS AUDIT — which recurring meetings or check-ins are consuming time without enough return? For each, recommend: keep, reduce frequency, delegate attendance, or drop. Use MEETING ATTENDANCE CALIBRATION, only count meetings I actually accepted.
+
+End with a TIME RECOVERY PLAN: today (1-2 immediate actions), this week (2-3 changes), this month (1-2 structural shifts). Be specific and candid. No motivational summary, just a practical reset.

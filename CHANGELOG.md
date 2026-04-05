@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.7 — 2026-04-04
+### Changed
+- "What's My Team Working On?" — Manager mode: added Recognition & Support section (who to recognize, who needs help, draft messages for both). IC mode: added Where I Can Add Value section (proactive help offers to peers).
+
 ## v1.6 — 2026-04-04
 ### Changed
 - "What's My Team Working On?" rewritten with dual-mode support: Manager mode (team pulse check with initiative alignment and misalignment check) and IC mode (peer landscape scan with collaboration opportunities)

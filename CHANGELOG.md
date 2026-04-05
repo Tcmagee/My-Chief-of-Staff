@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.2 — 2026-04-04
+### Added
+- Commitment Ledger section: unified rules for deduplicating and presenting commitments across all capabilities
+- Source Attribution Tags: inline source indicators ([📧 email], [💬 slack], etc.) for every factual claim
+- Time-of-Day Awareness: agent adapts framing based on morning/midday/afternoon/evening
+- Escalation Language Calibration: visual weight of items now matches actual stakes
+- New conversation starter: "Weekly Reset" (replaces "Tell Me About Someone")
+
+### Changed
+- "Tell Me About Someone" removed from conversation starters (niche, low-frequency use case)
+
 ## v1.1 — 2026-04-04
 ### Changed
 - Added Query Routing preamble: LLM now classifies query type before selecting capabilities, reducing wrong-capability activation

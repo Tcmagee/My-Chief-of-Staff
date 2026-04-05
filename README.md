@@ -30,7 +30,7 @@ Think of it as five roles through a single interface:
 2. My Patterns and Performance
 3. Help Me Free Up My Time
 4. How Am I Tracking on My Objectives?
-5. Tell Me About Someone
+5. Weekly Reset
 6. Prep Me for My Next Meeting
 7. Help Me With My Recharge
 8. Help Me Make a Decision

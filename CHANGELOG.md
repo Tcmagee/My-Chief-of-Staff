@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.3 — 2026-04-04
+### Changed
+- Today's Brief: now references source attribution tags, time-of-day awareness, and commitment ledger
+- Prep Me for My Next Meeting: restructured with explicit sections, commitment ledger per attendee, source tags
+- Help Me With My Recharge: generalized from Rivian-specific "Recharge" to work for any company's quarterly review cycle
+- Help Me Free Up My Time: sharpened as forward-looking capacity planning tool, added Overload Calibration reference, meetings audit, delegation drafting
+- Where Am I the Bottleneck?: sharpened as backward-looking diagnostic, added explicit "Am I the Blocker?" field per initiative and "WHERE I'M ACTUALLY BLOCKING" callout
+- Help Me Make a Decision: now proactively searches for context before responding instead of passively waiting, added source attribution
+
 ## v1.2 — 2026-04-04
 ### Added
 - Commitment Ledger section: unified rules for deduplicating and presenting commitments across all capabilities

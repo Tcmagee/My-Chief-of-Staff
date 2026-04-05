@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.9 — 2026-04-05
+### Added
+- **Capability 8: Persistent Memory (Chief of Staff Memory Vault)** — markdown-based memory layer stored in Google Drive, indexed by Glean. Session bootstrap loads index.md and commitments.md before every response. Additional vault files loaded contextually. Memory contribution proposes updates at session end for user approval. Weekly consolidation support compiles raw sessions into durable insights.
+- **Session Bootstrap pointer** added after Core Identity, before Query Routing — ensures memory loading executes before any output
+- **Commitment Ledger vault bridge** — when a memory vault exists, commitments.md becomes the primary ledger supplemented by real-time signals; when no vault exists, commitments reconstructed from live sources as before
+- **Silent degradation clause** — agent skips Capability 8 entirely for users without a vault, never mentions the vault or prompts them to create one
+- **Memory vault files committed to repo** (memory-vault/ directory): index.md, profile.md, relationships.md, commitments.md, decisions.md, patterns.md, corrections.md, routing.md, soul.md, weekly and raw templates
+
+### Changed
+- Weekly consolidation language updated: now says "search for files containing UNPROCESSED" instead of implying structured YAML filtering (Glean does keyword matching, not metadata queries)
+- Identity section generalized: "This agent is designed to work for anyone at the company. Discover who I am from my connected data."
+- soul.md updated to v1.9 mirror with Capability 8 summary and planned v2.0 changes
+
+### Fixed
+- decisions.md and patterns.md converted from RTF to clean plain-text markdown (macOS TextEdit had saved them as RTF despite .md extension)
+
 ## v1.8 — 2026-04-04
 ### Changed
 - Today's Brief: restructured from wall of text into labeled sections, added "Who Needs to Hear From Me" (proactive outreach), escalation calibration, proactive action drafting for blockers and unblock messages
@@ -26,7 +42,6 @@
 
 ### Removed
 - "How Am I Tracking on My Objectives?" — redundant with Recharge quarterly review starter
-
 ## v1.3 — 2026-04-04
 ### Changed
 - Today's Brief: now references source attribution tags, time-of-day awareness, and commitment ledger
@@ -52,8 +67,7 @@
 - Added Query Routing preamble: LLM now classifies query type before selecting capabilities, reducing wrong-capability activation
 - Consolidated duplicate style/tone/specificity instructions into single Universal Rules section (was repeated 4x across capabilities)
 - Expanded Daily Brief word limit from 350 to 400 words to reduce cramped outputs
-- Made THE SIGNAL section conditional: only appears when genuine cross-source evidence exists, skip if speculative
-- Added Failure Modes section: explicit guardrails for conflicting data, low-confidence signals, hallucinated IDs/titles, and calendar edge cases
+- Made THE SIGNAL section conditional: only appears when genuine cross-source evidence exists, skip if speculative- Added Failure Modes section: explicit guardrails for conflicting data, low-confidence signals, hallucinated IDs/titles, and calendar edge cases
 - Restructured for LLM primacy/recency bias: routing logic at top, universal rules and failure modes at bottom
 - Separated Overload Calibration into its own standalone section (was buried inside Capability 5)
 
